@@ -19,5 +19,14 @@ Total amount of Vine reviews that were 5-stars is 48
 
 ![image](https://user-images.githubusercontent.com/111409181/213400027-11b74723-1b96-4ffc-84ef-ce7a4e788805.png)
 
-The Total amount of Vine reviews that non-members didnt pay for was 15,663
+The Total amount of Vine reviews that are non-members didnt pay for what was 15,663
+
+![image](https://user-images.githubusercontent.com/111409181/213401065-cb7a56ee-a047-4833-bfb5-1ba5329427f4.png)
+
+Finally it was the percentages of the 5-star reviews for Vine members and non-members. 
+
+![image](https://user-images.githubusercontent.com/111409181/213401782-e0b9e943-022e-439a-aa7d-da7552b0a338.png)
+
+The first pic was the Vine reviews percentage of 51.06
+
 
