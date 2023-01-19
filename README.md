@@ -23,10 +23,20 @@ The Total amount of Vine reviews that are non-members didnt pay for what was 15,
 
 ![image](https://user-images.githubusercontent.com/111409181/213401065-cb7a56ee-a047-4833-bfb5-1ba5329427f4.png)
 
-Finally it was the percentages of the 5-star reviews for Vine members and non-members. 
+Finally we have the percentages of the 5-star reviews for Vine members and non-members. 
 
 ![image](https://user-images.githubusercontent.com/111409181/213401782-e0b9e943-022e-439a-aa7d-da7552b0a338.png)
 
 The first pic was the Vine reviews percentage of 51.06
+
+![image](https://user-images.githubusercontent.com/111409181/213402592-e5461dcf-c0ab-4854-9589-e9894718de18.png)
+
+This second pic shows the percentage of non-Vine members having 5-start reviews. The percentage was at 38.7
+
+## Summary 
+This results show that 51.6 percent of the Vine program had 5-star reviews while for the non-Vine reviews still had about 38.7 percent.
+This clearly shows the Vine members tend to give out 5-star reviews and be more bias in a more positive way. One additional analysis we can do is to get the statistics of the data set by getting the mean, median, and mode of each star rating. 
+
+
 
 
