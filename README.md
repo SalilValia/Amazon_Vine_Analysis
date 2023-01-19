@@ -31,7 +31,7 @@ The first pic was the Vine reviews percentage of 51.06
 
 ![image](https://user-images.githubusercontent.com/111409181/213402592-e5461dcf-c0ab-4854-9589-e9894718de18.png)
 
-This second pic shows the percentage of non-Vine members having 5-start reviews. The percentage was at 38.7
+This second pic shows the percentage of non-Vine reviews having 5-star reviews. The percentage was at 38.7
 
 ## Summary 
 This results show that 51.6 percent of the Vine program had 5-star reviews while for the non-Vine reviews still had about 38.7 percent.
